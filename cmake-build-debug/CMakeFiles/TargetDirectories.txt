@@ -1,0 +1,3 @@
+/tmp/tmp.tPpIGkC5T6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.tPpIGkC5T6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.tPpIGkC5T6/cmake-build-debug/CMakeFiles/airbnb.dir

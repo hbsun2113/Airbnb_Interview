@@ -1,0 +1,21 @@
+Input:
+format: first_name, last_name, email, interest, xxx(忘了...), location, age
+e.g.:
+['''Weronika,Zaborska,njkfdsv@dsgfk.sn,"running, sci-fi",new,Krakow,25''',
+'''Ryuichi,Akiyama,jkg@ljnsfd.fjn,music,guide,Tokyo,65''',
+'''Elena,Martinez,emrt@lsofnbr.rt,"cooking, traveling",superhost,Valencia,42''',
+'''"John ""Mo""",Smith,sfn@flkaei.km,biking and hiking,,"Seattle, WA",23''']
+
+希望output:
+Weronika, 25 years old, is from Krakow and is interested in running, sci-fi.
+Ryuichi, 65 years old, is from Tokyo and is interested in music.
+Elena, 42 years old, is from Valencia and is interested in cooking, traveling.
+John "Mo", 23 years old, is from Seattle, WA and is interested in biking and hiking.
+
+会给出format:
+[first_name], [age] years old, is from [location] and is interested in [interest].
+没什么edge cases,只要按规定的处理就行. 
+规定: 
+1. ,为分隔符,除非在“”里 如“John, L”,则不分割
+2. “”里有连续两个“”则只要一个“
+*很多奇怪的edge case其实不需要考虑: 所谓奇怪,你感觉要拐3道弯以上就不用管了,基本规则满足后就会发现test可以过了的

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="airbnb" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/tmp/tmp.tPpIGkC5T6/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/tmp/tmp.tPpIGkC5T6/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/tmp/tmp.tPpIGkC5T6/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="airbnb">
+         <Option output="/tmp/tmp.tPpIGkC5T6/cmake-build-debug/airbnb" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.tPpIGkC5T6/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Users/mac/bits/stdc++.h" />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/." />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/OA汇总" />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/OA汇总/OA2(page)" />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/OA汇总/模拟外交" />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 airbnb" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="airbnb/fast">
+         <Option output="/tmp/tmp.tPpIGkC5T6/cmake-build-debug/airbnb" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.tPpIGkC5T6/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Users/mac/bits/stdc++.h" />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/." />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/OA汇总" />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/OA汇总/OA2(page)" />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/OA汇总/模拟外交" />
+            <Add directory="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 airbnb/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.tPpIGkC5T6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/0">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/1.Palindrome Pairs.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/10. meeting room.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/11. preference list.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/12.buddy list.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/13.flight ticket list.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/14.URL Shortener.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/15.wizards.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/16.PourWater.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/17.text justification.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/18.string pyramids transition matrix.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/19.sliding game-followup.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/19.sliding game.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/2.Round numbers.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/20.find median from large file of integers.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/21.Multiply Strings.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/22.CSV PARSER.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/22.csv parser.png">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/23.boggle game.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/24.nights request on Airbnb.com.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/25.edit distance.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/26.rectangles intersect.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/27.CollatzConjecture.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/28.Simulate Diplomacy.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/29.Regular Expression.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/3.2D itertaor + remove().cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/30.String_Case_Combinations.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/31.Finding Ocean.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/32.Traveling Salesman.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/33.Bank System.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/34.Ternary Expression Parser.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/35.Profitable Schemes.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/36.Hogwarts Meetup.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/4.ip2cidr.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/5.Display Page list.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/6.menu order.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/8. Alien Dictionary.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/9.有向图 求最少的点可以遍历所有点.cpp">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/Airbnb - LeetCode.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/OA汇总/19.txt">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/OA汇总/6.jpg">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/OA汇总/OA12.png">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/OA汇总/OA2(page)/2.txt">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/OA汇总/模拟外交/040630ezmmd9dzp1c1ymcy.png">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/OA汇总/模拟外交/040631j7djwp74mv18fd1e.png">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/OA汇总/模拟外交/040631xra0z7zx7rfw3zfw.png">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Aairbnb OA高频题汇总.docx.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Airbnb Behavior Question汇总.docx.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Airbnb企业文化.docx.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Airbnb最新招聘信息大汇总.docx.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Airbnb最新面经大汇总.docx.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Airbnb算法真题汇总.docx.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Airbnb系统设计面试真题汇总.docx.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Airbnb面试准备指南.docx.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Airbnb面试流程梳理.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb求职大礼包/Lintcode IT企业模拟面试密码.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb面经coding题目总结.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/airbnb面试题汇总 _ August&apos;s Box.pdf">
+         <Option target="airbnb"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.tPpIGkC5T6/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
